@@ -1,0 +1,1 @@
+g++ ./FileManagement.cpp ./Tester.cpp -o test -std=c++17
